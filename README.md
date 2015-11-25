@@ -45,16 +45,16 @@ Use a service:
 jsonBody := &hapicli.JsonBody{
     Amount:   "100",
     PaymentReference: "Payment 123",
-    label: "The label",
-    executionDate: time.Now(),
-    creditor:{
-    	reference: "democreditor"
+    Label: "The label",
+    ExecutionDate: time.Now(),
+    Creditor:{
+    	Reference: "democreditor"
 	},
-	mandate:{
-		rum: "SLMP000001",
-		standard : &hapicli.SEPA,
-		createSequenceType : &hapicli.FRST,
-		dateSigned : time.Now(),
+	Mandate:{
+		Rum: "SLMP000001",
+		Standard : &hapicli.SEPA,
+		CreateSequenceType : &hapicli.FRST,
+		DateSigned : time.Now(),
 	},
     
 }
