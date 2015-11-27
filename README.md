@@ -1,5 +1,5 @@
 [![Coverage](http://gocover.io/_badge/github.com/ritoon/hapiclient-go/hapicli?0)](http://gocover.io/github.com/ritoon/hapiclient-go/hapicli)
-[![Build Status](https://travis-ci.org/ritoon/hapiclient.png?branch=master)](https://travis-ci.org/ritoon/hapiclient/hapicli)
+[![Build Status](https://travis-ci.org/ritoon/hapiclient-go.svg?branch=master)](https://travis-ci.org/ritoon/hapiclient-go)
 [![GoDoc](https://godoc.org/github.com/ritoon/hapiclient/hapicli?status.svg)](https://godoc.org/github.com/ritoon/hapiclient/hapicli)
 
 Be aware that this package is still in heavy developpement. Some breaking change will occure.
